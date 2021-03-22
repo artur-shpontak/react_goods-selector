@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AACE,oBACE,qBAAsB","file":"main.0d06e682.chunk.css","sourcesContent":[".App {\n  &__selected-good {\n    background-color: cyan;\n  }\n}\n"]}
